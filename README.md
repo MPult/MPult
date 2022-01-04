@@ -15,8 +15,7 @@ All rounder IT guy I currently work for a medium-sized buissnes, im the System A
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/MPult][github]
-- Site: [federico-dondi.github.io][site]
+- GitHub: [github.com/MPult.com][github]
 - E-mail: MPult@protonmail.com
 
 ### 📚 Looking for my Resume? E-Mail me!
