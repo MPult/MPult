@@ -5,7 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Beginner-lightgrey)
 
-All rounder IT guy I currently work for a medium-sized buissnes, im the System Administrator / Lord of the IT. My tasks range from setting up email accounts, Servers, Infrastructure Development/ Maintnance, and Websites. Personaly I prefer working on the infrastructure and backend of highly-available APIs and Applications.  
+All rounder IT guy I currently work for a medium-sized business, im the System Administrator / Lord of the IT. My tasks range from setting up email accounts, Servers, Infrastructure Development/ Maintnance, and Websites. Personaly I prefer working on the infrastructure and backend of highly-available APIs and Applications.  
 
 - 🔭 Employed as System Administrator
 - 🌱 I’m currently learning resilitant applications.
