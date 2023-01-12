@@ -28,5 +28,3 @@ All rounder IT guy I currently work for a medium-sized business, im the System A
 - E-mail: [Mpult@protonmail.com](mailto://MPult@protonmail.com)
 
 ### 📚 Looking for my Resume? E-Mail me!
-
-![Maximilian's github stats](https://github-readme-stats.vercel.app/api?username=MPult&show_icons=true&hide_border=true)
