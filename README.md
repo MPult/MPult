@@ -1,18 +1,15 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Maximilian Pult</h3>
 <p align="center">
-  <!--<a href="https://www.giftegwuenu.dev">Website</a>
-  <a href="https://twitter.com/lauragift_">Twitter</a>-->
 </p>
 
  <!-- About section -->
 
 ---
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![HTML](https://img.shields.io/badge/HTML-Good-orange)
-![CSS](https://img.shields.io/badge/CSS-Good-blue)
+![Vue](https://img.shields.io/badge/HTML-Good-orange)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
-![Kotlin](https://img.shields.io/badge/Kotlin-Beginner-lightgrey)
+![Rust](https://img.shields.io/badge/Kotlin-Beginner-blue)
 
 All rounder IT guy I currently work for a medium-sized business, im the System Administrator / Lord of the IT. My tasks range from setting up email accounts, Servers, Infrastructure Development/ Maintnance, and Websites. Personaly I prefer working on the infrastructure and backend of highly-available APIs and Applications.  
 
