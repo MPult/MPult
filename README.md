@@ -5,23 +5,18 @@
 
  <!-- About section -->
 
----
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![Vue](https://img.shields.io/badge/HTML-Good-orange)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
-![Rust](https://img.shields.io/badge/Kotlin-Beginner-blue)
 
-All rounder IT guy I currently work for a medium-sized business, im the System Administrator / Lord of the IT. My tasks range from setting up email accounts, Servers, Infrastructure Development/ Maintnance, and Websites. Personaly I prefer working on the infrastructure and backend of highly-available APIs and Applications.  
 
+All rounder IT guy I currently work for a medium-sized business, im the System Administrator in charge of buissnes automation, infrastructure and Cybersecurity.
 - 🔭 Employed as System Administrator
 - 🌱 I’m currently learning resilitant/distributed applications.
 - 🌱 I’m currently learning more about **Kubernettes**
 - ⚙️ Mastering: `.html`,`.css`,`.js`,`.ts`, and more
-- 💬 I'm mostly active within the **Cyber Security**, **Vue.JS**, **Node.JS** and **Unity 3D** communities
+- 💬 I'm mostly active within the **Cyber Security**, **Vue.JS**, **Node.JS** communities
 
 ### 📬 Get in Touch
 
-- GitHub: [Github](github.com/MPult.com)
+- GitHub: [Github](github.com/MPult)
 - E-mail: [Mpult@protonmail.com](mailto://MPult@protonmail.com)
 
 ### 📚 Looking for my Resume? E-Mail me!
